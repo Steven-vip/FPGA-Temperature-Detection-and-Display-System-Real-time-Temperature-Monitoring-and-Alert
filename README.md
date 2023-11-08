@@ -44,4 +44,4 @@ The project showcases two modes of the temperature display system: temperature d
 
 该项目展示了温度显示系统的两种模式：温度显示和报警模式，清晰展示了系统不同状态的视觉呈现。
 
-video: 
+video: https://www.bilibili.com/video/BV1FC4y1n791/
